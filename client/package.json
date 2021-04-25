@@ -3,15 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.3.15",
     "@craco/craco": "^5.6.4",
     "@testing-library/jest-dom": "^5.9.0",
     "@testing-library/react": "^11.0.0",
     "@testing-library/user-event": "^11.1.0",
     "antd": "^4.5.2",
-    "apollo-client": "^2.6.10",
     "craco-less": "^1.17.0",
+    "graphql": "^15.5.0",
     "react": "^16.13.1",
-    "react-apollo": "^3.1.5",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
